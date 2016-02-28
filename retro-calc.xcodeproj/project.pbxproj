@@ -293,6 +293,7 @@
 				86BE1FDA1C7B748F001B590B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
